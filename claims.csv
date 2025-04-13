@@ -37,14 +37,14 @@ Medium,Enjoy tackling challenges,Soft,Orange,aksv
 Medium,Ability to communicate insights clearly,Soft,Orange,aksv
 Medium,Certified fitness coach,Hard,Green,aksv
 Medium,Disciplined,Soft,Orange,aksv
-Medium,Goal-oritented,Soft,Orange,aksv
+Medium,Goal-oriented,Soft,Orange,aksv
 Medium,Systematical,Soft,Orange,aksv
 Medium,Eager to contribute to team,Soft,Orange,aksv
 Medium,Welcome opportunity to discuss how my skills align with the role,Soft,Orange,aksv
-Medium,Look forward to hearing from you ,Soft,Orange,aksv
+Medium,Look forward to hearing from you,Soft,Orange,aksv
 Low,Excited to apply for position,Soft,Orange,aksv
 Low,University student,Hard,Orange,aksv
-Low,Strong interest in data driven decision making,Soft,Orange,aksv
+Low,Strong interest in data-driven decision making,Soft,Orange,aksv
 Low,Eager to contribute skills,Soft,Orange,aksv
 Low,Eager to gain hands-on experience,Soft,Orange,aksv
 Low,Previous student job,Hard,Green,aksv
@@ -61,7 +61,7 @@ Low,Goal-oriented,Soft,Orange,aksv
 Low,Passion for fitness,Soft,Orange,aksv
 Low,Eager to bring analytical and technical skills,Soft,Orange,aksv
 Low,Would love to discuss how my skills can contribute to the team,Soft,Orange,aksv
-Low,Look forward to hearing from you ,Soft,Orange,aksv
+Low,Look forward to hearing from you,Soft,Orange,aksv
 None,Excited to apply for position,Soft,Orange,aksv
 None,University student,Hard,Orange,aksv
 None,Eager to apply skills in real-world setting,Soft,Orange,aksv
@@ -87,7 +87,7 @@ High,Studying Data Science at the IT University,Hard,Green,idwe
 High,Strong analytical skills,Hard,Orange,idwe
 High,Strong programming skills,Hard,Orange,idwe
 High,1.5 years as student data analyst in the medical industry,Hard,Green,idwe
-High,Experience with Pyhton,Hard,Green,idwe
+High,Experience with Python,Hard,Green,idwe
 High,Experience with SQL,Hard,Green,idwe
 High,Experience with Power BI,Hard,Green,idwe
 High,Thrive in collaborative environment,Soft,Green,idwe
@@ -119,7 +119,7 @@ Medium,Strong passion for collaboration,Soft,Green,idwe
 Medium,Thrive in collaborative environment,Soft,Green,idwe
 Medium,Certified fitness coach,Hard,Green,idwe
 Medium,Collaborative skills from fitness,Soft,Orange,idwe
-Medium,Persistency from fitness,Soft,Orange,idwe
+Medium,Persistence from fitness,Soft,Orange,idwe
 Medium,Structured mindset from fitness,Soft,Orange,idwe
 Medium,Excited to work in an agile setting,Soft,Orange,idwe
 Medium,Exicited to contribute to the team,Soft,Orange,idwe
@@ -207,8 +207,8 @@ Medium,Experience with data visualization tools,Hard,Green,bhei
 Medium,Ability to present findings effectively,Soft,Orange,bhei
 Medium,Balanced mindset,Soft,Green,bhei
 Medium,Able to work independently,Soft,Orange,bhei
-Medium,Passion for fitness,Soft,Red,bhei
-Medium,Strong analytical and problem-solving skills from fitness ,Soft,Green,bhei
+Medium,Passion for fitness,Soft,Green,bhei
+Medium,Strong analytical and problem-solving skills from fitness ,Soft,Red,bhei
 Medium,Abilty to analyze data-driven progress from fitness,Soft,Red,bhei
 Medium,Eager to bring technical expertise and enthusiasm to team,Soft,Orange,bhei
 Medium,Welcome opportunity to discuss how my skills align with the role,Soft,Orange,bhei
@@ -266,7 +266,7 @@ High,Eager to contribute to digital transformation,Soft,Orange,swae
 High,Eager to contribute to data-driven decision making,Soft,Orange,swae
 High,Current student job as data analyst,Hard,Green,swae
 High,1.5 years experience,Hard,Green,swae
-High,Experience with python,Hard,Green,swae
+High,Experience with Python,Hard,Green,swae
 High,Optimized processes,Hard,Green,swae
 High,Strong skills in Power BI,Hard,Green,swae
 High,Strong skills in SQL,Hard,Green,swae
@@ -281,15 +281,15 @@ High,Balanced mindset,Soft,Orange,swae
 High,Approach challenges with persistency,Soft,Green,swae
 High,Passion for team building,Soft,Green,swae
 High,Organized team building events in previous job,Hard,Green,swae
-High,Certified fitness coach,Hard,Red,swae
+High,Certified fitness coach,Hard,Green,swae
 High,Helped individuals acheive their personal goals,Soft,Green,swae
-High,Analytical mindset from fitness,Soft,Orange,swae
+High,Analytical mindset from fitness,Soft,Red,swae
 High,Eager to contribute to team,Soft,Orange,swae
 High,Would love to discuss how my skills can contribute to the team,Soft,Orange,swae
-High,Look forward to hear from you,Soft,Orange,swae
-Medium,Excited to apply for position,Soft,Green,swae
-Medium,Studying Data Science at the IT University,Hard,Orange,swae
-Medium,Eager to apply skills in real-word setting,Soft,Green,swae
+High,Look forward to hearing from you,Soft,Orange,swae
+Medium,Excited to apply for position,Soft,Orange,swae
+Medium,Studying Data Science at the IT University,Hard,Green,swae
+Medium,Eager to apply skills in real-world setting,Soft,Green,swae
 Medium,Current student job as data analyst,Hard,Orange,swae
 Medium,Experience with data preprocessing,Hard,Green,swae
 Medium,Experience with data visualization,Hard,Green,swae
@@ -306,10 +306,10 @@ Medium,Communication skills from fitness,Soft,Orange,swae
 Medium,Coaching skills from fitness,Soft,Orange,swae
 Medium,Excited about opportunity to contribute to the team,Soft,Orange,swae
 Medium,Would love to discuss how my skills can contribute to the team,Soft,Orange,swae
-Low,Excited to apply for position,Soft,Red,swae
-Low,University student,Soft,Orange,swae
+Low,Excited to apply for position,Soft,Orange,swae
+Low,University student,Soft,Red,swae
 Low,Strong interest in data-driven decision making,Soft,Orange,swae
-Low,Eager to contribute to the team,Soft,Green,swae
+Low,Eager to contribute to team,Soft,Green,swae
 Low,Previous student job,Hard,Orange,swae
 Low,Team-player mindset,Soft,Green,swae
 Low,Strong programming skills,Hard,Red,swae
