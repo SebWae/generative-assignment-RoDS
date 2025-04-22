@@ -291,17 +291,17 @@ Medium,Excited to apply for position,Soft,Orange,swae
 Medium,Studying Data Science at the IT University,Hard,Green,swae
 Medium,Eager to apply skills in real-world setting,Soft,Green,swae
 Medium,Current student job as data analyst,Hard,Orange,swae
-Medium,Experience with data preprocessing,Hard,Green,swae
-Medium,Experience with data visualization,Hard,Green,swae
-Medium,Experience with reporting,Hard,Green,swae
-Medium,Strong skills in SQL,Hard,Red,swae
-Medium,Strong skills in Python,Hard,Red,swae
-Medium,Experience with Power BI,Hard,Orange,swae
+Medium,Experience with data preprocessing,Hard,Orange,swae
+Medium,Experience with data visualization,Hard,Orange,swae
+Medium,Experience with reporting,Hard,Orange,swae
+Medium,Strong skills in SQL,Hard,Green,swae
+Medium,Strong skills in Python,Hard,Green,swae
+Medium,Experience with Power BI,Hard,Red,swae
 Medium,Ability to extract valuable insights from data,Soft,Orange,swae
 Medium,Abilities align with job description,Soft,Green,swae
 Medium,Thrive in collaborative environment,Soft,Orange,swae
-Medium,Balanced mindset,Soft,Red,swae
-Medium,Passionate about continuous learning,Soft,Orange,swae
+Medium,Balanced mindset,Soft,Orange,swae
+Medium,Passionate about continuous learning,Soft,Red,swae
 Medium,Communication skills from fitness,Soft,Orange,swae
 Medium,Coaching skills from fitness,Soft,Orange,swae
 Medium,Excited about opportunity to contribute to the team,Soft,Orange,swae
@@ -325,7 +325,7 @@ Low,Eager to apply skills in real-world setting,Soft,Orange,swae
 Low,Eager to learn from team,Soft,Orange,swae
 Low,Welcome opportunity to discuss how my skills align with the role,Soft,Orange,swae
 Low,Look forward to response,Soft,Orange,swae
-None,Excited to apply for position,Soft,Red,swae
+None,Excited to apply for position,Soft,Orange,swae
 None,Keen interest in leveraging data for strategic decision-making,Soft,Red,swae
 None,Eager to contribute to digital transformation,Soft,Orange,swae
 None,University student,Hard,Red,swae
